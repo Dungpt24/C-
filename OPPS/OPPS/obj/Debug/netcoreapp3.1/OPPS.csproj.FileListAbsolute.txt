@@ -1,0 +1,14 @@
+C:\Users\haha\source\repos\OPPS\OPPS\bin\Debug\netcoreapp3.1\OPPS.exe
+C:\Users\haha\source\repos\OPPS\OPPS\bin\Debug\netcoreapp3.1\OPPS.deps.json
+C:\Users\haha\source\repos\OPPS\OPPS\bin\Debug\netcoreapp3.1\OPPS.runtimeconfig.json
+C:\Users\haha\source\repos\OPPS\OPPS\bin\Debug\netcoreapp3.1\OPPS.runtimeconfig.dev.json
+C:\Users\haha\source\repos\OPPS\OPPS\bin\Debug\netcoreapp3.1\OPPS.dll
+C:\Users\haha\source\repos\OPPS\OPPS\bin\Debug\netcoreapp3.1\OPPS.pdb
+C:\Users\haha\source\repos\OPPS\OPPS\obj\Debug\netcoreapp3.1\OPPS.csproj.AssemblyReference.cache
+C:\Users\haha\source\repos\OPPS\OPPS\obj\Debug\netcoreapp3.1\OPPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haha\source\repos\OPPS\OPPS\obj\Debug\netcoreapp3.1\OPPS.AssemblyInfoInputs.cache
+C:\Users\haha\source\repos\OPPS\OPPS\obj\Debug\netcoreapp3.1\OPPS.AssemblyInfo.cs
+C:\Users\haha\source\repos\OPPS\OPPS\obj\Debug\netcoreapp3.1\OPPS.csproj.CoreCompileInputs.cache
+C:\Users\haha\source\repos\OPPS\OPPS\obj\Debug\netcoreapp3.1\OPPS.dll
+C:\Users\haha\source\repos\OPPS\OPPS\obj\Debug\netcoreapp3.1\OPPS.pdb
+C:\Users\haha\source\repos\OPPS\OPPS\obj\Debug\netcoreapp3.1\OPPS.genruntimeconfig.cache
